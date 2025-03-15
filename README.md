@@ -2,7 +2,7 @@
 
 This project is a simulation of a real-world Project Management process for a sharing mobility service, following the PMBOK7 guidelines.
 
-* **Objective**: Simulate a full project lifecycle, from initiation to closure.
+* **Goal**: Simulate a full project lifecycle, from initiation to closure.
 * **Methodology**: Based on the PMI PMBOK7 framework, covering the four key phases:
   * Start – Defining project objectives and stakeholders
   * Planning – Creating the WBS, timeline, risk assessment, and budget
