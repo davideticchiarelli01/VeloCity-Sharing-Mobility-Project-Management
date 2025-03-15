@@ -13,3 +13,19 @@ This project is a simulation of a real-world Project Management process for a sh
   * Excel – Cost analysis
   * Word – Project documentation
   * Draw.io – Work Breakdown Structure (WBS)
+
+## 📋 WBS - Work Breakdown Structure ##  
+![WBS - VeloCity](https://github.com/user-attachments/assets/943385d4-5fa7-4d63-a3d6-dbce1224a6bd)
+
+## 📅 Gantt chart ##
+Here is an example of the Gantt Chart for the **Velocity Sharing Mobility Project**:
+
+![image](https://github.com/user-attachments/assets/24cfe1b0-98df-4138-b40d-b55cd1d01f52)
+
+## ✍️ Authors   
+
+| Name                   | Github                                               |
+|------------------------|------------------------------------------------------|
+| **Davide Ticchiarelli** | [https://github.com/davideticchiarelli01](https://github.com/davideticchiarelli01) |
+| **Giampaolo Marino**    | [https://github.com/giamp109](https://github.com/giamp109) |
+| **Andrea Pizzuto**      | [https://github.com/Piz01](https://github.com/Piz01) |
